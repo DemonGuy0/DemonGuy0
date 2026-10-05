@@ -1,4 +1,3 @@
-```markdown
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     🎨 HEADER PRINCIPAL                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -35,7 +34,6 @@
 
 ## 🚀 Sobre mí
 
-```python
 class Killerj00:
     def __init__(self):
         self.nombre       = "Killerj00"
@@ -50,7 +48,6 @@ class Killerj00:
 
 yo = Killerj00()
 print(yo.saludar())
-```
 
 Me interesa aprender programación construyendo proyectos reales y entendiendo cómo funcionan las cosas detrás del código. Estoy construyendo mis conocimientos paso a paso, pasando de pequeños programas a aplicaciones completas y útiles.
 
@@ -147,11 +144,9 @@ Aplicación de escritorio desarrollada con Python y Tkinter para gestionar infor
 
 🛠️ Stack: Python Tkinter SQLite
 
-```bash
 # Estado del proyecto
 🟢 En desarrollo activo
 📈 Aprendiendo y mejorando cada día
-```
 
 ---
 
@@ -320,7 +315,6 @@ https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmai
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
-```
 
 ---
 
