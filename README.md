@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
 Me interesa aprender programación **construyendo proyectos reales** y entendiendo cómo funcionan las cosas detrás del código.
 
@@ -25,7 +25,7 @@ Estoy construyendo mis conocimientos **paso a paso**, pasando de pequeños progr
 
 ---
 
-## 🛠️ Tecnologías
+# 🛠️ Tecnologías
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Estoy construyendo mis conocimientos **paso a paso**, pasando de pequeños progr
 
 ---
 
-## 📌 Proyectos Destacados
+# 📌 Proyectos Destacados
 
 ### 💰 Finance App
 
