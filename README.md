@@ -62,10 +62,10 @@ Quiero llegar al punto en el que pueda tomar una idea, dividirla en problemas, d
 📚 Actualmente
 
 Python       ███░░░░░░░  En progreso  
-HTML/CSS     █████░░░░░  En progreso 
-JavaScript   ██░░░░░░░░  En progreso 
-Web Dev      ███░░░░░░░  En progreso 
-
+HTML/CSS     █████░░░░░  En progreso  
+JavaScript   ██░░░░░░░░  En progreso  
+Web Dev      ███░░░░░░░  En progreso  
+ 
 ---
 
 ⭐ Siempre aprendiendo. Siempre construyendo.
