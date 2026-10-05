@@ -1,31 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Killerj00&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=58&descSize=20" width="100%"/>
+# 👋 Hola, soy Killerj00
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%91%8B+%C2%A1Hola%2C+soy+Killerj00!;%F0%9F%92%BB+Estudiante+de+Programaci%C3%B3n;%F0%9F%90%8D+Python+%7C+Web+Dev+%7C+Contabilidad" alt="Typing SVG" />
-</a>
+### 💻 Estudiante de Programación | Python · Web Development · Contabilidad
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Python+and+Web+Developer+en+progreso;Construyendo+proyectos+reales;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve" alt="Typing SVG" />
 
-> ### _"No necesitas saberlo todo para empezar. Necesitas empezar para llegar a saberlo."_
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Killerj00&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL)
-![Followers](https://img.shields.io/github/followers/Killerj00?color=36BCF7&style=for-the-badge&label=SEGUIDORES)
+> _"No necesitas saberlo todo para empezar. Necesitas empezar para llegar a saberlo."_
 
 </div>
-
-<br/>
 
 ---
 
 ## 🚀 Sobre mí
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-Me interesa aprender programación **construyendo proyectos reales** y entendiendo cómo funcionan las cosas **detrás del código**.
+Me interesa aprender programación **construyendo proyectos reales** y entendiendo cómo funcionan las cosas detrás del código.
 
 Estoy construyendo mis conocimientos **paso a paso**, pasando de pequeños programas a aplicaciones completas y útiles.
 
@@ -34,45 +23,23 @@ Estoy construyendo mis conocimientos **paso a paso**, pasando de pequeños progr
 - 🎯 Objetivo: Convertir ideas en **programas funcionales**
 - 💡 Filosofía: **Learn → Build → Break → Fix → Improve**
 
-<br clear="right"/>
-
 ---
 
-## 🎯 En lo que me enfoco
+## 🛠️ Tecnologías
 
 <div align="center">
 
-| 🔥 Área | 💡 Descripción |
-|:-------:|:---------------|
-| 🐍 **Desarrollo con Python** | Aplicaciones de escritorio y automatización |
-| 🌐 **Desarrollo Web** | HTML, CSS, JavaScript |
-| 🖥️ **Interfaces Gráficas** | Tkinter, diseño limpio y funcional |
-| 🗄️ **Bases de Datos** | SQLite, persistencia de datos |
-| ⚙️ **Automatización** | Scripts que resuelven problemas reales |
-| 💰 **Proyectos Financieros** | Apps contables y de gestión |
-
-</div>
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### 💻 Lenguajes
+### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend
+### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Herramientas
+### Aprendiendo
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -84,96 +51,30 @@ Estoy construyendo mis conocimientos **paso a paso**, pasando de pequeños progr
 
 > Aplicación de escritorio desarrollada con **Python** y **Tkinter** para gestionar información financiera en el uso diario.
 
-**🎯 Enfoque del proyecto:**
-- 🖥️ Interfaces gráficas intuitivas
+**Enfoque del proyecto:**
+- 🖥️ Interfaces gráficas
 - 💾 Persistencia de datos
-- 🗄️ Base de datos con SQLite
-- 🏗️ Arquitectura y organización de aplicaciones
-
-**🛠️ Stack:** `Python` · `Tkinter` · `SQLite`
+- 🗄️ Bases de datos (SQLite)
+- 🏗️ Organización de aplicaciones
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📚 Progreso de Aprendizaje
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Killerj00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killerj00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Killerj00&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6F00&currStreakLabel=36BCF7" />
-
-</div>
-
----
-
-## 📈 Actividad de Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Killerj00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" width="100%"/>
-
-</div>
-
----
-
-## 📚 Mi Progreso de Aprendizaje
-
-<div align="center">
-
-| 🚀 Tecnología | 📊 Progreso | 🎯 Nivel |
-|:--------------|:-----------:|:--------:|
-| 🐍 **Python** | `██████░░░░` | 60% 🟢 |
-| 🌐 **HTML/CSS** | `█████░░░░░` | 50% 🟢 |
-| ⚡ **JavaScript** | `██░░░░░░░░` | 20% 🟡 |
-| 🖥️ **Web Dev** | `███░░░░░░░` | 30% 🟡 |
-| 🗄️ **SQLite** | `███░░░░░░░` | 30% 🟡 |
-| 🎨 **Tkinter** | `████░░░░░░` | 40% 🟢 |
-
-</div>
+| Tecnología | Progreso | Estado |
+|:-----------|:---------|:-------|
+| 🐍 Python | `██████░░░░` | En progreso |
+| 🌐 HTML/CSS | `█████░░░░░` | En progreso |
+| ⚡ JavaScript | `██░░░░░░░░` | En progreso |
+| 🖥️ Web Dev | `███░░░░░░░` | En progreso |
 
 ---
 
 ## 🎯 Mi Objetivo
 
-<div align="center">
-
-No quiero limitarme a aprender sintaxis.
-
-Quiero llegar al punto en el que pueda **tomar una idea, dividirla en problemas, diseñar una solución y convertirla en un programa funcional.**
-
-### 🔄 Mi ciclo de aprendizaje
-
-![Learn](https://img.shields.io/badge/📖_Learn-36BCF7?style=for-the-badge)
-![Build](https://img.shields.io/badge/🔨_Build-4CAF50?style=for-the-badge)
-![Break](https://img.shields.io/badge/💥_Break-FF5252?style=for-the-badge)
-![Fix](https://img.shields.io/badge/🔧_Fix-FF9800?style=for-the-badge)
-![Improve](https://img.shields.io/badge/🚀_Improve-9C27B0?style=for-the-badge)
-
-</div>
-
----
-
-## 💭 Frase que me motiva
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## 📫 Conecta conmigo
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Killerj00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Killerj00)
-
-</div>
+> No quiero limitarme a aprender sintaxis.
+> 
+> Quiero llegar al punto en el que pueda **tomar una idea, dividirla en problemas, diseñar una solución y convertirla en un programa funcional.**
 
 ---
 
@@ -181,6 +82,6 @@ Quiero llegar al punto en el que pueda **tomar una idea, dividirla en problemas,
 
 ### ⭐ Siempre aprendiendo. Siempre construyendo.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=Killerj00&color=36BCF7&style=for-the-badge&label=VISITAS)
 
 </div>
