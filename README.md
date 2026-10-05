@@ -1,6 +1,6 @@
 <div align="center">
 
-#👋 Hola, soy <p style='color: #FF0000'>Killerj00</p>
+#👋 Hola, Soy Killerj00
 
 ### 💻 Estudiante de Programación | Python · Web Development · Contabilidad
 
