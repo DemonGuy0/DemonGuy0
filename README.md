@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     🎨 HEADER PRINCIPAL                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Killerj00&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Build%20%7C%20Learn%20%7C%20Repeat&descAlignY=58&descSize=20" width="100%"/>
@@ -12,54 +8,35 @@
 
 <br/>
 
-> ### _"No necesitas saberlo todo para empezar. Necesitas empezar para llegar a saberlo."_
+"No necesitas saberlo todo para empezar. Necesitas empezar para llegar a saberlo."
 
 <br/>
 
-<!-- ═══════════ BADGES DE PERFIL ═══════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=Killerj00&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL)
-![Followers](https://img.shields.io/github/followers/Killerj00?color=36BCF7&style=for-the-badge&label=SEGUIDORES)
-![Stars](https://img.shields.io/github/stars/Killerj00?color=FFD700&style=for-the-badge&label=ESTRELLAS)
+https://komarev.com/ghpvc/?username=Killerj00&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL
+https://img.shields.io/github/followers/Killerj00?color=36BCF7&style=for-the-badge&label=SEGUIDORES
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        🚀 SOBRE MÍ                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
+
+🚀 Sobre mí
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-## 🚀 Sobre mí
+Me interesa aprender programación construyendo proyectos reales y entendiendo cómo funcionan las cosas detrás del código.
 
-class Killerj00:
-    def __init__(self):
-        self.nombre       = "Killerj00"
-        self.rol          = "Estudiante de Programación"
-        self.enfoque      = ["Python", "Web Development", "Contabilidad"]
-        self.aprendiendo  = ["JavaScript DOM", "Tkinter", "SQLite"]
-        self.filosofia    = "Learn → Build → Break → Fix → Improve"
-        self.objetivo     = "Convertir ideas en programas funcionales"
-    
-    def saludar(self):
-        return "¡Gracias por visitar mi perfil! 🚀"
+Estoy construyendo mis conocimientos paso a paso, pasando de pequeños programas a aplicaciones completas y útiles.
 
-yo = Killerj00()
-print(yo.saludar())
-
-Me interesa aprender programación construyendo proyectos reales y entendiendo cómo funcionan las cosas detrás del código. Estoy construyendo mis conocimientos paso a paso, pasando de pequeños programas a aplicaciones completas y útiles.
+· 🔭 Actualmente trabajando en: Finance App (Python + Tkinter)
+· 🌱 Aprendiendo: JavaScript DOM · Tkinter · SQLite
+· 🎯 Objetivo: Convertir ideas en programas funcionales
+· 💡 Filosofía: Learn → Build → Break → Fix → Improve
 
 <br clear="right"/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       🎯 INTERESES                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 🎯 En lo que me enfoco
 
@@ -67,7 +44,7 @@ Me interesa aprender programación construyendo proyectos reales y entendiendo c
 
 🔥 Área 💡 Descripción
 🐍 Desarrollo con Python Aplicaciones de escritorio y automatización
-🌐 Desarrollo Web HTML, CSS, JavaScript y frameworks modernos
+🌐 Desarrollo Web HTML, CSS, JavaScript
 🖥️ Interfaces Gráficas Tkinter, diseño limpio y funcional
 🗄️ Bases de Datos SQLite, persistencia de datos
 ⚙️ Automatización Scripts que resuelven problemas reales
@@ -76,12 +53,6 @@ Me interesa aprender programación construyendo proyectos reales y entendiendo c
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       🛠️ TECNOLOGÍAS                           -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 🛠️ Stack Tecnológico
 
@@ -97,7 +68,7 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascri
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-🧰 Herramientas & Frameworks
+🧰 Herramientas
 
 https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
@@ -105,30 +76,11 @@ https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=w
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
-📚 Actualmente aprendiendo
-
-https://img.shields.io/badge/JavaScript_DOM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                        📌 PROYECTOS                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 📌 Proyectos Destacados
-
-<div align="center">
-
-<a href="https://github.com/Killerj00">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Killerj00&repo=Finance-App&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
 
 💰 Finance App
 
@@ -140,21 +92,10 @@ Aplicación de escritorio desarrollada con Python y Tkinter para gestionar infor
 · 💾 Persistencia de datos
 · 🗄️ Base de datos con SQLite
 · 🏗️ Arquitectura y organización de aplicaciones
-· 📊 Reportes y control de finanzas personales
 
-🛠️ Stack: Python Tkinter SQLite
-
-# Estado del proyecto
-🟢 En desarrollo activo
-📈 Aprendiendo y mejorando cada día
+🛠️ Stack: Python · Tkinter · SQLite
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     📊 ESTADÍSTICAS GITHUB                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 📊 Estadísticas de GitHub
 
@@ -168,19 +109,9 @@ Aplicación de escritorio desarrollada con Python y Tkinter para gestionar infor
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killerj00&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6F00&currStreakLabel=36BCF7" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Killerj00&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    📈 GRÁFICO DE ACTIVIDAD                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 📈 Actividad de Contribuciones
 
@@ -191,12 +122,6 @@ Aplicación de escritorio desarrollada con Python y Tkinter para gestionar infor
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     📚 PROGRESO DE APRENDIZAJE                 -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 📚 Mi Progreso de Aprendizaje
 
@@ -214,30 +139,13 @@ Aplicación de escritorio desarrollada con Python y Tkinter para gestionar infor
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       🎯 MI OBJETIVO                           -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 🎯 Mi Objetivo
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   No quiero limitarme a aprender sintaxis.                  ║
-║                                                              ║
-║   Quiero llegar al punto en el que pueda:                   ║
-║                                                              ║
-║      💡 Tomar una idea                                       ║
-║      🧩 Dividirla en problemas                               ║
-║      🎨 Diseñar una solución                                 ║
-║      ⚙️ Convertirla en un programa funcional                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+No quiero limitarme a aprender sintaxis.
+
+Quiero llegar al punto en el que pueda tomar una idea, dividirla en problemas, diseñar una solución y convertirla en un programa funcional.
 
 🔄 Mi ciclo de aprendizaje
 
@@ -251,12 +159,6 @@ https://img.shields.io/badge/🚀_Improve-9C27B0?style=for-the-badge
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                      💭 FRASE DEL DÍA                          -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 💭 Frase que me motiva
 
 <div align="center">
@@ -267,46 +169,15 @@ https://img.shields.io/badge/🚀_Improve-9C27B0?style=for-the-badge
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    🐍 SERPIENTE DE CONTRIBUCIONES              -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-🐍 Mis contribuciones
-
-<div align="center">
-
-https://raw.githubusercontent.com/Killerj00/Killerj00/output/github-contribution-grid-snake-dark.svg
-
-</div>
-
-💡 Tip: Para activar la serpiente, necesitas configurar un GitHub Action con Platane/snk. Aquí te dejo el enlace: github-contribution-grid-snake
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       📫 CONTACTO                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 📫 Conecta conmigo
 
 <div align="center">
 
 https://img.shields.io/badge/GitHub-Killerj00-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                          FOOTER                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -315,23 +186,3 @@ https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmai
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
-
----
-
-✨ Novedades de esta versión
-
-Elemento Descripción
-🌊 Header animado Capsule render con degradado y olas
-⌨️ Typing SVG multilínea Texto animado con varias frases
-🐍 Código Python Bloque simulando una clase Killerj00
-🎞️ GIF de programador Imagen lateral con align="right"
-📊 Stats de GitHub Cards con estadísticas reales
-🔥 Racha de commits Streak stats con tema tokyo-night
-🏆 Trofeos Logros de GitHub profile trophy
-📈 Gráfico de actividad Activity graph animado
-🐍 Snake animation Serpiente de contribuciones (requiere Action)
-💭 Frase aleatoria Quote del día automática
-📦 Bloques ASCII Cuadro de texto con estilo
-🎨 Tablas mejoradas Progreso con emojis y porcentajes
-🔗 Badges de contacto Enlaces a GitHub y email
-🌊 Footer animado Cierre visual con ola
