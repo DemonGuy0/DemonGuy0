@@ -4,7 +4,7 @@
 
 ### 💻 Estudiante de Programación | Python · Web Development · Contabilidad
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer+en+progreso;Construyendo+proyectos+reales;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color='red'&center=true&vCenter=true&width=500&lines=Python+and+Web+Developer+en+progreso;Construyendo+proyectos+reales;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve" alt="Typing SVG" />
 
 > _"No necesitas saberlo todo para empezar. Necesitas empezar para llegar a saberlo."_
 
@@ -63,7 +63,7 @@ Estoy construyendo mis conocimientos **paso a paso**, pasando de pequeños progr
 
 | Tecnología | Progreso | Estado |
 |:-----------|:---------|:-------|
-| 🐍 Python | `██████░░░░` | En progreso |
+| 🐍 Python | `██░░░░░░░░` | En progreso |
 | 🌐 HTML/CSS | `█████░░░░░` | En progreso |
 | ⚡ JavaScript | `██░░░░░░░░` | En progreso |
 | 🖥️ Web Dev | `███░░░░░░░` | En progreso |
