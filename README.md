@@ -8,12 +8,12 @@
 
 <br/>
 
-"No necesitas saberlo todo para empezar. Necesitas empezar para llegar a saberlo."
+> ### _"No necesitas saberlo todo para empezar. Necesitas empezar para llegar a saberlo."_
 
 <br/>
 
-https://komarev.com/ghpvc/?username=Killerj00&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL
-https://img.shields.io/github/followers/Killerj00?color=36BCF7&style=for-the-badge&label=SEGUIDORES
+![Profile Views](https://komarev.com/ghpvc/?username=Killerj00&color=36BCF7&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Followers](https://img.shields.io/github/followers/Killerj00?color=36BCF7&style=for-the-badge&label=SEGUIDORES)
 
 </div>
 
@@ -21,83 +21,80 @@ https://img.shields.io/github/followers/Killerj00?color=36BCF7&style=for-the-bad
 
 ---
 
-🚀 Sobre mí
+## 🚀 Sobre mí
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Me interesa aprender programación construyendo proyectos reales y entendiendo cómo funcionan las cosas detrás del código.
+Me interesa aprender programación **construyendo proyectos reales** y entendiendo cómo funcionan las cosas **detrás del código**.
 
-Estoy construyendo mis conocimientos paso a paso, pasando de pequeños programas a aplicaciones completas y útiles.
+Estoy construyendo mis conocimientos **paso a paso**, pasando de pequeños programas a aplicaciones completas y útiles.
 
-· 🔭 Actualmente trabajando en: Finance App (Python + Tkinter)
-· 🌱 Aprendiendo: JavaScript DOM · Tkinter · SQLite
-· 🎯 Objetivo: Convertir ideas en programas funcionales
-· 💡 Filosofía: Learn → Build → Break → Fix → Improve
+- 🔭 Actualmente trabajando en: **Finance App** (Python + Tkinter)
+- 🌱 Aprendiendo: **JavaScript DOM · Tkinter · SQLite**
+- 🎯 Objetivo: Convertir ideas en **programas funcionales**
+- 💡 Filosofía: **Learn → Build → Break → Fix → Improve**
 
 <br clear="right"/>
 
 ---
 
-🎯 En lo que me enfoco
+## 🎯 En lo que me enfoco
 
 <div align="center">
 
-🔥 Área 💡 Descripción
-🐍 Desarrollo con Python Aplicaciones de escritorio y automatización
-🌐 Desarrollo Web HTML, CSS, JavaScript
-🖥️ Interfaces Gráficas Tkinter, diseño limpio y funcional
-🗄️ Bases de Datos SQLite, persistencia de datos
-⚙️ Automatización Scripts que resuelven problemas reales
-💰 Proyectos Financieros Apps contables y de gestión
+| 🔥 Área | 💡 Descripción |
+|:-------:|:---------------|
+| 🐍 **Desarrollo con Python** | Aplicaciones de escritorio y automatización |
+| 🌐 **Desarrollo Web** | HTML, CSS, JavaScript |
+| 🖥️ **Interfaces Gráficas** | Tkinter, diseño limpio y funcional |
+| 🗄️ **Bases de Datos** | SQLite, persistencia de datos |
+| ⚙️ **Automatización** | Scripts que resuelven problemas reales |
+| 💰 **Proyectos Financieros** | Apps contables y de gestión |
 
 </div>
 
 ---
 
-🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-💻 Lenguajes
+### 💻 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🌐 Frontend
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
-🧰 Herramientas
-
-https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+### 🧰 Herramientas
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-📌 Proyectos Destacados
+## 📌 Proyectos Destacados
 
-💰 Finance App
+### 💰 Finance App
 
-Aplicación de escritorio desarrollada con Python y Tkinter para gestionar información financiera en el uso diario.
+> Aplicación de escritorio desarrollada con **Python** y **Tkinter** para gestionar información financiera en el uso diario.
 
-🎯 Enfoque del proyecto:
+**🎯 Enfoque del proyecto:**
+- 🖥️ Interfaces gráficas intuitivas
+- 💾 Persistencia de datos
+- 🗄️ Base de datos con SQLite
+- 🏗️ Arquitectura y organización de aplicaciones
 
-· 🖥️ Interfaces gráficas intuitivas
-· 💾 Persistencia de datos
-· 🗄️ Base de datos con SQLite
-· 🏗️ Arquitectura y organización de aplicaciones
-
-🛠️ Stack: Python · Tkinter · SQLite
+**🛠️ Stack:** `Python` · `Tkinter` · `SQLite`
 
 ---
 
-📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -113,7 +110,7 @@ Aplicación de escritorio desarrollada con Python y Tkinter para gestionar infor
 
 ---
 
-📈 Actividad de Contribuciones
+## 📈 Actividad de Contribuciones
 
 <div align="center">
 
@@ -123,43 +120,44 @@ Aplicación de escritorio desarrollada con Python y Tkinter para gestionar infor
 
 ---
 
-📚 Mi Progreso de Aprendizaje
+## 📚 Mi Progreso de Aprendizaje
 
 <div align="center">
 
-🚀 Tecnología 📊 Progreso 🎯 Nivel
-🐍 Python ██████░░░░ 60% 🟢
-🌐 HTML/CSS █████░░░░░ 50% 🟢
-⚡ JavaScript ██░░░░░░░░ 20% 🟡
-🖥️ Web Dev ███░░░░░░░ 30% 🟡
-🗄️ SQLite ███░░░░░░░ 30% 🟡
-🎨 Tkinter ████░░░░░░ 40% 🟢
+| 🚀 Tecnología | 📊 Progreso | 🎯 Nivel |
+|:--------------|:-----------:|:--------:|
+| 🐍 **Python** | `██████░░░░` | 60% 🟢 |
+| 🌐 **HTML/CSS** | `█████░░░░░` | 50% 🟢 |
+| ⚡ **JavaScript** | `██░░░░░░░░` | 20% 🟡 |
+| 🖥️ **Web Dev** | `███░░░░░░░` | 30% 🟡 |
+| 🗄️ **SQLite** | `███░░░░░░░` | 30% 🟡 |
+| 🎨 **Tkinter** | `████░░░░░░` | 40% 🟢 |
 
 </div>
 
 ---
 
-🎯 Mi Objetivo
+## 🎯 Mi Objetivo
 
 <div align="center">
 
 No quiero limitarme a aprender sintaxis.
 
-Quiero llegar al punto en el que pueda tomar una idea, dividirla en problemas, diseñar una solución y convertirla en un programa funcional.
+Quiero llegar al punto en el que pueda **tomar una idea, dividirla en problemas, diseñar una solución y convertirla en un programa funcional.**
 
-🔄 Mi ciclo de aprendizaje
+### 🔄 Mi ciclo de aprendizaje
 
-https://img.shields.io/badge/📖_Learn-36BCF7?style=for-the-badge
-https://img.shields.io/badge/🔨_Build-4CAF50?style=for-the-badge
-https://img.shields.io/badge/💥_Break-FF5252?style=for-the-badge
-https://img.shields.io/badge/🔧_Fix-FF9800?style=for-the-badge
-https://img.shields.io/badge/🚀_Improve-9C27B0?style=for-the-badge
+![Learn](https://img.shields.io/badge/📖_Learn-36BCF7?style=for-the-badge)
+![Build](https://img.shields.io/badge/🔨_Build-4CAF50?style=for-the-badge)
+![Break](https://img.shields.io/badge/💥_Break-FF5252?style=for-the-badge)
+![Fix](https://img.shields.io/badge/🔧_Fix-FF9800?style=for-the-badge)
+![Improve](https://img.shields.io/badge/🚀_Improve-9C27B0?style=for-the-badge)
 
 </div>
 
 ---
 
-💭 Frase que me motiva
+## 💭 Frase que me motiva
 
 <div align="center">
 
@@ -169,11 +167,11 @@ https://img.shields.io/badge/🚀_Improve-9C27B0?style=for-the-badge
 
 ---
 
-📫 Conecta conmigo
+## 📫 Conecta conmigo
 
 <div align="center">
 
-https://img.shields.io/badge/GitHub-Killerj00-181717?style=for-the-badge&logo=github&logoColor=white
+[![GitHub](https://img.shields.io/badge/GitHub-Killerj00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Killerj00)
 
 </div>
 
@@ -181,7 +179,7 @@ https://img.shields.io/badge/GitHub-Killerj00-181717?style=for-the-badge&logo=gi
 
 <div align="center">
 
-⭐ Siempre aprendiendo. Siempre construyendo.
+### ⭐ Siempre aprendiendo. Siempre construyendo.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
